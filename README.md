@@ -14,4 +14,5 @@ If you want to add/remove your mod from here or the list, make sure to check the
 - **Kopi Puesto Face Cards:**	Shinku as Art and Code
 - **Lethal Company:** Sonicite as Art and Code
 - **SonicCDDeck and TeamDarkDeck:** rynagon as Art and NyxForKicks as Code
+- **VocaloidCards 1.1.11** TheGreenRupee as Art and Code
 - **bocchi-all, eva-all and lucky-all/Bocchi the Rock, Evangelion and Lucky Star Deck Skins:** turpix as Art and Code
