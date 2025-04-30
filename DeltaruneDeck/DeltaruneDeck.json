@@ -1,0 +1,13 @@
+{
+	"id": "DeltaruneDeck",
+	"name": "Deltarune Face Cards",
+	"author": ["CubeGuy", "_VioMarks_", "Hectordudeman"],
+	"description": "Adds Deltarune inspired deck collab cards. Art by @_VioMarks_ and @Hectordudeman on Twitter/X",
+	"prefix": "DeltaruneDeck",
+	"badge_colour": "0b0b3b",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1404b)"
+	],
+	"main_file": "DeltaruneDeck.lua",
+	"version": "1.0.0"
+}
