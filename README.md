@@ -11,6 +11,7 @@ If you want to add/remove your mod from here or the list, make sure to check the
 - **Cookie-Poker Cards/Cookie Poker:** KallMeKarmak/Karkat as Art and Code
 - **EnaCardsNon4Color/Friends of Jimbo: ENA**: vluuy and Bran as Art and Bran as Code
 - **Friends Of Lavvo 1/2**: Lavender9999 as Art and Code
+- **Guilty Gear Strive**: flwr_venus as Art and Code
 - **InkPack/Inkticious' Card Pack:** Inkticious as Art and Code
 - **Kopi Puesto Face Cards:**	Shinku as Art and Code
 - **Lethal Company:** Sonicite as Art and Code
