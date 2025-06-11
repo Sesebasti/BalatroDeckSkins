@@ -20,3 +20,4 @@ If you want to add/remove your mod from here or the list, make sure to check the
 - **VocaloidCards 1.1.11** TheGreenRupee as Art and Code
 - **bocchi-all, eva-all and lucky-all/Bocchi the Rock, Evangelion and Lucky Star Deck Skins:** turpix as Art and Code
 - **DeltaruneDeck:** VioMarks and Hectordudeman as Art and CubeGuy as Code
+- **VTuber Deck:** Oceonax as Art and SeSebasti as Code
