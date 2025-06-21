@@ -1,10 +1,3 @@
---- STEAMODDED HEADER
---- MOD_NAME: Cookie Run Cards
---- MOD_ID: cookie_poker
---- PREFIX: ck_pk
---- MOD_AUTHOR: [KallMeKarmak/Karkat, SeSebasti]
---- MOD_DESCRIPTION: This is a mod for CRK fans! It replaces all the playing cards with Cookie Run characters
-
 local atlas_key = 'ck_pk_atlas' -- Format: PREFIX_KEY
 -- See end of file for notes
 local atlas_path = 'TemplateCards.png' -- Filename for the image in the asset folder

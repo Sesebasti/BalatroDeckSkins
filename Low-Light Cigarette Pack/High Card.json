@@ -1,0 +1,8 @@
+{
+	"id": "highcard",
+	"name": "Low-Light Cigarette Pack",
+	"author": ["Kenny Stone", "SeSebasti"],
+	"description": "Replaces the deck to the X-Playing Cards deck from High Card.",
+	"prefix": "hc",
+	"main_file": "High Card.lua"
+}

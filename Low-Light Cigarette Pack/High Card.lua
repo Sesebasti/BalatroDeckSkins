@@ -1,10 +1,3 @@
---- STEAMODDED HEADER
---- MOD_NAME: Low-Light Cigarette Pack
---- MOD_ID: highcard
---- PREFIX: hc
---- MOD_AUTHOR: [Kenny Stone, SeSebasti]
---- MOD_DESCRIPTION: Replaces the deck to the X-Playing Cards deck from High Card.
-
 local atlas_key = 'hc_atlas' -- Format: PREFIX_KEY
 -- See end of file for notes
 local atlas_path = 'High Card.png' -- Filename for the image in the asset folder

@@ -1,0 +1,8 @@
+{
+	"id": "stupid",
+	"name": "Stupid Suits",
+	"author": ["amazindood._.", "SeSebasti"],
+	"description": "A skin pack that is just awful.",
+	"prefix": "stupid",
+	"main_file": "Stupid.lua"
+}

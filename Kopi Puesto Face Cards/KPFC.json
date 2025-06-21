@@ -1,0 +1,12 @@
+{
+	"id": "Kopi_Puesto",
+	"name": "Kopi Puesto Face Cards",
+	"display_name": "Kopi Puesto"
+	"author": "[Crimson Heart]",
+	"description": "Kopi Puesto Face Cards, (Credits to SeSebasti for current update)",
+	"prefix": "kp_fc",
+	"main_file": "main.lua,
+	"badge_colour": "a2f000"
+	"version": "1.0.0",
+	"dependencies": [Steamodded>=1.0.0~ALPHA-0812d],
+}

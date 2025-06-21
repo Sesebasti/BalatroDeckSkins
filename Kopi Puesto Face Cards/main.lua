@@ -1,14 +1,3 @@
---- STEAMODDED HEADER
---- MOD_NAME: Kopi Puesto Face Cards
---- MOD_ID: Kopi_Puesto
---- PREFIX: kp_fc
---- MOD_AUTHOR: [Crimson Heart]
---- MOD_DESCRIPTION: Kopi Puesto Face Cards, (Credits to SeSebasti for current update)
---- BADGE_COLOUR: a2f000
---- DISPLAY_NAME:  Kopi Puesto
---- VERSION: 1.0.0
---- DEPENDENCIES: [Steamodded>=1.0.0~ALPHA-0812d]
-
 ----------------------------------------------
 ------------MOD CODE -------------------------
 

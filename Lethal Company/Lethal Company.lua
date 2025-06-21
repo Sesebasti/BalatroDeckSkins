@@ -1,10 +1,3 @@
---- STEAMODDED HEADER
---- MOD_NAME: Lethal Company
---- MOD_ID: lethal_company
---- PREFIX: lc
---- MOD_AUTHOR: [Sonicite, SeSebasti]
---- MOD_DESCRIPTION: Replace the Diamonds face cards to the Employee, the Ghost Girl and the Nutcracker from Lethal Company.
-
 local atlas_key = 'lc_atlas' -- Format: PREFIX_KEY
 -- See end of file for notes
 local atlas_path = 'lethal.png' -- Filename for the image in the asset folder

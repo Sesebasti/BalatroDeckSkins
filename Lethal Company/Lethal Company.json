@@ -1,0 +1,8 @@
+{
+	"id": "lethal_company",
+	"name": "Lethal Company",
+	"author": ["Sonicite", "SeSebasti"],
+	"description": "Replace the Diamonds face cards to the Employee, the Ghost Girl and the Nutcracker from Lethal Company.",
+	"prefix": "lc",
+	"main_file": "Lethal Company.lua"
+}

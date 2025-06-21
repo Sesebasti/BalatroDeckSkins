@@ -1,10 +1,3 @@
---- STEAMODDED HEADER
---- MOD_NAME: Stupid Suits
---- MOD_ID: stupid
---- PREFIX: stupid
---- MOD_AUTHOR: [amazindood._., SeSebasti]
---- MOD_DESCRIPTION: A skin pack that is just awful.
-
 local atlas_key = 'stupid_atlas' -- Format: PREFIX_KEY
 -- See end of file for notes
 local atlas_path = 'stupid.png' -- Filename for the image in the asset folder
