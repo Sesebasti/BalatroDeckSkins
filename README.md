@@ -140,8 +140,8 @@ If you want to add/remove your mod from here or the list, make sure to check the
   - [Luigi's Picture Balatro](https://balatromods.miraheze.org/wiki/Luigi%27s_Picture_Balatro)
   - Art: Lenuilu
   - Code: Lenuilu
-  
-- Steamodded is a constantly-updated mod loader for Balatro, created by Steamo. Lovely was created by Ethan Green.
+- The Modpack has compatibility with [ModProfiles](https://github.com/WaffleDevs/ModProfiles), made by [WaffleDevs](https://github.com/WaffleDevs). It's really useful.
+- [Steamodded](https://github.com/Steamodded/smods) is a constantly-updated mod loader for Balatro, created by [@Steamopollys](https://github.com/Steamopollys). [Lovely](https://github.com/ethangreen-dev/lovely-injector) was created by [@ethangreen-dev](https://github.com/ethangreen-dev). Them, along with all of the contributors, made all of this possible.
 </details>
 
-(Thanks @EL-R1 for the readme it looks great)
+(Thanks [@EL-R1](https://github.com/EL-R1) for the readme, it looks great)
