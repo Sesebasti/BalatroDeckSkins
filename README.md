@@ -145,3 +145,4 @@ If you want to add/remove your mod from here or the list, make sure to check the
 </details>
 
 (Thanks [@EL-R1](https://github.com/EL-R1) for the readme, it looks great)
+(Thanks [@Crystaltrd](https://github.com/Crystaltrd) for normalizing the paths. I didn't know about that so it's really helpful)
