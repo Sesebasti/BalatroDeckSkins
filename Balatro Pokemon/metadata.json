@@ -1,0 +1,17 @@
+{
+	"id": "balatropokemon",
+	"name": "Balatro Pokemon",
+	"display_name": "Balatro Pokemon",
+	"author": [
+		"SnappyC",
+		"SeSebasti"
+	],
+	"description": "Adds Pokémon Textures to the Game",
+	"prefix": "bltrpkmn",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "1.2.0",
+	"dependencies": []
+}
