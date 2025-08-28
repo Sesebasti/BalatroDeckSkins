@@ -1,0 +1,12 @@
+{
+	"id": "GreenLinzerdSkin",
+	"name": "GreenLinzerd's Deck Skin",
+	"author": [
+		"GreenLinzerd"
+	],
+	"description": "Deck Skin featuring OCs from GreenLinzerd. ",
+	"prefix": "greenlinzerd",
+	"main_file": "main.lua",
+	"priority": 0,
+	"version": "1.0.0",
+}
