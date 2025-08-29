@@ -1,0 +1,14 @@
+{
+"id":"elrichmc_collab",
+"name":"ElRichBalatro",
+"author":
+   [
+   "Comunidad de ElRichMC",
+   ""
+   ],
+"description":"Un mod hecho con cariño para ElRichMC de parte de su comunidad por su cumpleaños. Idea por @Lian_Tweet Organizado por: @anniepescado @IncorrectRiCh Modeado por: @Stuckrath_ Arte por: @RADI0AKTIVENDER @2guacamaca @HomxArtt @TroyanArchivo @Moon_latte88 @siimplyhyun @R4SC4L_TWT @Lian_Tweet @auronaki @BanSafiro",
+"prefix":"ElRichModC",
+"main_file":"main.lua",
+"priority":0,
+"version":"1.0.0"
+}
