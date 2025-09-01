@@ -119,7 +119,7 @@ If you want to add/remove your mod from here or the list, make sure to check the
   - Art: DeV
   - Code: DeV
 - ![deadsectro.gif](Previews/11%20-%20deadsectro.gif)
-  - [Cards Against Humanity](https://balatromods.miraheze.org/wiki/Cards_Against_Humanity)
+  - [deadsectro](https://balatromods.miraheze.org/wiki/Deadsectro)
   - Art: DeV
   - Code: DeV
 - ![EVA turpix.gif](Previews/38%20-%20EVA%20turpix.gif)
