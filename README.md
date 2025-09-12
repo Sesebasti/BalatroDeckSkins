@@ -135,6 +135,10 @@ If you want to add/remove your mod from here or the list, make sure to check the
   - [Twilight Princess Cards](https://balatromods.miraheze.org/wiki/Twilight_Princess_Cards)
   - Art: ThreePottPie
   - Code: ThreePottPie
+- ![Star Fox Deck.gif](Previews/64%20-%20Star%20Fox%20Deck.gif)
+  - Star Fox Deck
+  - Art: rynagon
+  - Code: NyxForKicks
 - The Modpack has compatibility with [ModProfiles](https://github.com/WaffleDevs/ModProfiles), made by [WaffleDevs](https://github.com/WaffleDevs). It's really useful.
 - [Steamodded](https://github.com/Steamodded/smods) is a constantly-updated mod loader for Balatro, created by [@Steamopollys](https://github.com/Steamopollys). [Lovely](https://github.com/ethangreen-dev/lovely-injector) was created by [@ethangreen-dev](https://github.com/ethangreen-dev). Them, along with all of the contributors, made all of this possible.
 </details>
