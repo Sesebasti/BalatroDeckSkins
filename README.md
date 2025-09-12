@@ -132,7 +132,7 @@ If you want to add/remove your mod from here or the list, make sure to check the
   - Art: turpix
   - Code: turpix
 - ![Twilight Princess Cards.gif](Previews/63%20-%20Twilight%20Princess%20Cards.gif)
-  - Twilight Princess Cards
+  - [Twilight Princess Cards](https://balatromods.miraheze.org/wiki/Twilight_Princess_Cards)
   - Art: ThreePottPie
   - Code: ThreePottPie
 - The Modpack has compatibility with [ModProfiles](https://github.com/WaffleDevs/ModProfiles), made by [WaffleDevs](https://github.com/WaffleDevs). It's really useful.
