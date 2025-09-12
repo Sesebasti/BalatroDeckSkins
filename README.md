@@ -131,6 +131,10 @@ If you want to add/remove your mod from here or the list, make sure to check the
   - [Lucky Star Deck Skin](https://balatromods.miraheze.org/wiki/Lucky_Star_Deck)
   - Art: turpix
   - Code: turpix
+- ![Twilight Princess Cards.gif](Previews/63%20-%20Twilight%20Princess%20Cards.gif)
+  - Twilight Princess Cards
+  - Art: ThreePottPie
+  - Code: ThreePottPie
 - The Modpack has compatibility with [ModProfiles](https://github.com/WaffleDevs/ModProfiles), made by [WaffleDevs](https://github.com/WaffleDevs). It's really useful.
 - [Steamodded](https://github.com/Steamodded/smods) is a constantly-updated mod loader for Balatro, created by [@Steamopollys](https://github.com/Steamopollys). [Lovely](https://github.com/ethangreen-dev/lovely-injector) was created by [@ethangreen-dev](https://github.com/ethangreen-dev). Them, along with all of the contributors, made all of this possible.
 </details>
