@@ -1,0 +1,15 @@
+{
+	"id": "TwilightHearts",
+	"name": "Twilight Princess Cards",
+	"display_name": "Twilight Princess Cards",
+	"author": ["ThreePottPie"],
+	"description": "Twilight Princess face cards by ThreePottPie",
+	"prefix": "htmfcd",
+	"main_file": "TwilightHearts.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"display_name": "ThreePottPie",
+	"version": "1.0.0",
+	"dependencies": [],
+}
