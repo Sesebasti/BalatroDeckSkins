@@ -136,7 +136,15 @@ If you want to add/remove your mod from here or the list, make sure to check the
   - Art: ThreePottPie
   - Code: ThreePottPie
 - ![Star Fox Deck.gif](Previews/64%20-%20Star%20Fox%20Deck.gif)
-  - Star Fox Deck
+  - [Star Fox Deck](https://balatromods.miraheze.org/wiki/Star_Fox_Deck)
+  - Art: rynagon
+  - Code: NyxForKicks
+- ![Regular Show.gif](Previews/66%20-%20Regular%20Show.gif)
+  - [Regular Show Deck](https://balatromods.miraheze.org/wiki/Regular_Show_Deck)
+  - Art: rynagon
+  - Code: NyxForKicks
+- ![Signalis.gif](Previews/65%20-%20Signalis.gif)
+  - [Signalis Deck](https://balatromods.miraheze.org/wiki/Signalis_Deck)
   - Art: rynagon
   - Code: NyxForKicks
 - The Modpack has compatibility with [ModProfiles](https://github.com/WaffleDevs/ModProfiles), made by [WaffleDevs](https://github.com/WaffleDevs). It's really useful.
